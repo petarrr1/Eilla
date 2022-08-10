@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[Bug] [Priority]"
+labels: bug
 assignees: ''
 
 ---
@@ -13,6 +13,10 @@ assignees: ''
 
 3. Expected behaviour
 
-4. Screenshot, Video
+4. Actual behaviour
 
-5. Desktop
+5. Screenshot, Video
+
+6. Desktop
+
+7. Additional context
